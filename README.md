@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K12f)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **K12f/K12f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
